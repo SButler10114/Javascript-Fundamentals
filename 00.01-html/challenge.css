@@ -1,0 +1,19 @@
+/* rule 1 <h1> tag is light green and centered */
+
+/* rule 2 <h3> tag is always blue */
+
+/* rule 3 all <p> tags always red */
+
+.wrapper{
+    border: 50px solid black;
+}
+
+.border-style li:nth-child(1){
+    border-style: curved;
+}
+
+body {
+    background-color: gray;
+}
+
+
